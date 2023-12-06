@@ -2,7 +2,7 @@
 
 ## Introduction
 - Brief overview of the VR gaming industry
-- Purpose and scope of the analysis
+- Purpose and scope of the analysis 
 
 ## Objectives
 - What the project aims to achieve
