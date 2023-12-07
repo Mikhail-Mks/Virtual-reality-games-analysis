@@ -5,7 +5,7 @@
 - Purpose and scope of the analysis 
 
 ## Objectives
-- What the project aims to achieve
+- Aim is to analyse trends and patterns in VR gaming industry
 - Key questions to answer through the analysis
 
 ## Data Collection
