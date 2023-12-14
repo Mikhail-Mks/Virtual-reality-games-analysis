@@ -6,7 +6,7 @@
 
 ## Objectives
 - Aim is to analyse trends and patterns in VR gaming industry
-- Key questions to answer through the analysis
+- Key questions to answer through the data analysis
 
 ## Data Collection
 - Sources of VR game data
