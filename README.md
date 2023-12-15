@@ -15,6 +15,7 @@
 ## Methodology
 - Description of analytical methods and tools used
 - Steps taken to ensure data accuracy and reliability
+- Data was cleaned using python, power query and excel
 
 ## Analysis
 - Metrics and parameters used for analysis
