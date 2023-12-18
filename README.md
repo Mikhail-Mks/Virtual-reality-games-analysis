@@ -18,7 +18,7 @@
 - Data was cleaned using python, power query and Excel
 
 ## Analysis
-- Metrics and parameters used for analysis
+- Metrics and parameters used for data analysis
 - Insights and trends observed in VR gaming
 
 ## Results
