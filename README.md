@@ -19,7 +19,7 @@
 
 ## Analysis
 - Metrics and parameters used for data analysis
-- Insights and trends observed in VR gaming
+- Insights and trends observed in VR gaming industry
 
 ## Results
 - Summary of key findings
