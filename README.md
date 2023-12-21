@@ -9,7 +9,7 @@
 - Key questions to answer through the data analysis
 
 ## Data Collection
-- Sources of VR game data
+- Sources of VR game data (steam)
 - Criteria for selecting games to analyze
 
 ## Methodology
