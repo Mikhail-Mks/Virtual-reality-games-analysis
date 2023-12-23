@@ -26,7 +26,7 @@
 - Visualizations and charts to represent data and insights
 
 ## Discussion
-- Interpretation of results
+- Interpretation of results of analysis
 - Impact of findings on VR gaming stakeholders
 
 ## Conclusion
