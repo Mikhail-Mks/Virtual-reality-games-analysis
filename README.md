@@ -35,7 +35,6 @@
 
 ## Acknowledgments
 - Credits to contributors and data sources
-- Special thanks section
 - Dataset source: https://www.kaggle.com/datasets/leetheoiv/steam-virtual-reality-vr-video-games-dataset
 
 ## Contact
