@@ -22,7 +22,7 @@
 - Insights and trends observed in VR gaming industry
 
 ## Results
-- Summary of key findings
+- Summary of key findings of analysis
 - Visualizations and charts to represent data and insights
 
 ## Discussion
