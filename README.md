@@ -31,7 +31,7 @@
 
 ## Conclusion
 - Recap of the analysis and its significance
-- Future directions for research
+- Future directions for research of VR gaming
 
 ## Acknowledgments
 - Credits to contributors and data sources
