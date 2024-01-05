@@ -23,7 +23,7 @@
 
 ## Results
 - Summary of key findings of analysis
-- Visualizations and charts to represent data and insights
+- Visualizations and charts to represent insights
 
 ## Discussion
 - Interpretation of results of analysis
